@@ -3508,7 +3508,7 @@
 				padding-bottom: 1px;
 			}
 
-			#navButton {
+			/* #navButton {
 				-moz-backface-visibility: hidden;
 				-webkit-backface-visibility: hidden;
 				-ms-backface-visibility: hidden;
@@ -3633,7 +3633,7 @@
 					#navPanel .link .indent-5 {
 						display: inline-block;
 						width: 5em;
-					}
+					} */
 
 			body.navPanel-visible #page-wrapper {
 				-moz-transform: translateX(275px);
